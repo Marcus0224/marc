@@ -2,7 +2,7 @@ import React from "react";
 import "./header.css";
 import Resume from "./Resume";
 import ME from "../../assets/cover/cover-image.jpg";
-import Socials from "../Header/Socials";
+import Socials from "../header/Socials";
 
 const Header = () => {
   return (
