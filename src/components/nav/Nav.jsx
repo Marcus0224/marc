@@ -1,5 +1,5 @@
 import React from 'react';
-import './Nav.css';
+import './nav.css';
 import { useState } from 'react';
 import {AiOutlineUser} from 'react-icons/ai'
 import {BsBook} from 'react-icons/bs'
