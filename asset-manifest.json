@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marc/static/css/main.b2f839a0.css",
+    "main.js": "/marc/static/js/main.f40cbd22.js",
+    "static/js/787.272b05c2.chunk.js": "/marc/static/js/787.272b05c2.chunk.js",
+    "static/media/Turk.jpeg": "/marc/static/media/Turk.21052f7fabcacb176996.jpeg",
+    "static/media/header-bg.jpg": "/marc/static/media/header-bg.f94c03c83f15b4c3d390.jpg",
+    "static/media/burgers.jpg": "/marc/static/media/burgers.6d35845d6dd4cb690491.jpg",
+    "static/media/safespot.png": "/marc/static/media/safespot.444de129adf49ae10803.png",
+    "static/media/Devhub.png": "/marc/static/media/Devhub.8c1c7b320e67a5760de9.png",
+    "static/media/weatherman.png": "/marc/static/media/weatherman.06aa552e827d304ecd1d.png",
+    "static/media/tracker.png": "/marc/static/media/tracker.59335f3b11ccf802b63b.png",
+    "static/media/Resume1.png": "/marc/static/media/Resume1.cbdbea9f0f9c03cbd921.png",
+    "static/media/background.jpg": "/marc/static/media/background.839a590681a7e825fea9.jpg",
+    "static/media/techblog.png": "/marc/static/media/techblog.df65afa44e558a3f9940.png",
+    "static/media/cover-image.jpg": "/marc/static/media/cover-image.aa8f286bfd91888f8346.jpg",
+    "index.html": "/marc/index.html",
+    "main.b2f839a0.css.map": "/marc/static/css/main.b2f839a0.css.map",
+    "main.f40cbd22.js.map": "/marc/static/js/main.f40cbd22.js.map",
+    "787.272b05c2.chunk.js.map": "/marc/static/js/787.272b05c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f839a0.css",
+    "static/js/main.f40cbd22.js"
+  ]
+}
