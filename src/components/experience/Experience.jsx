@@ -4,7 +4,7 @@ import { BsPatchCheck } from 'react-icons/bs'
 
 const experience = () => {
     return (
-        <section>
+        <section id="experience">
             <h4>Skills</h4>
             <h2>My Experience</h2>
 
